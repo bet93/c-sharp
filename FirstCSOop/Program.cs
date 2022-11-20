@@ -1,4 +1,10 @@
-﻿namespace FirstCSOop
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FirstCSOop
 {
     internal class Program
     {
@@ -53,9 +59,6 @@
             boss.fly();
             boss.goToHyperspace();
             boss.land();
-
-            // pause application at the end of execution
-            Console.ReadKey();
         }
 
     }

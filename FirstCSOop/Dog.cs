@@ -9,6 +9,8 @@ namespace FirstCSOop
     // Derived class (child)
     internal class Dog : Animal
     {
+        private string name = "Balto";
+
         public Dog(string name)
         {
             this.name = name;
@@ -20,7 +22,7 @@ namespace FirstCSOop
         }
         public void wash()
         {
-            Console.WriteLine("I do not enjoy baths very much like other dogs do, im don't like the water!");
+            Console.WriteLine("I do not enjoy baths very much like other dogs do, I don't like the water!");
         }
         public void turnAround()
         {

@@ -9,6 +9,8 @@ namespace FirstCSOop
     // Derived class (child)
     internal class Bird : Animal
     {
+        private string name = "Tweety";
+
         public Bird(string name)
         {
             this.name = name;
