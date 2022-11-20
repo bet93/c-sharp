@@ -36,6 +36,26 @@
 
 
             // part 2
+            // instatiate an object of SmallCraft
+            SmallCraft small = new SmallCraft();
+            small.fly();
+            small.goToHyperspace();
+            small.land();
+
+            // instatiate an object of LargeCraft
+            LargeCraft large = new LargeCraft();
+            large.fly();
+            large.goToHyperspace();
+            large.land();
+
+            // instatiate an object of BossCraft
+            BossCraft boss = new BossCraft();
+            boss.fly();
+            boss.goToHyperspace();
+            boss.land();
+
+            // pause application at the end of execution
+            Console.ReadKey();
         }
 
     }
