@@ -1,6 +1,6 @@
 # c-sharp
 To run program make sure to download .Net Core
 
-'cd FirstCSOop'
+`cd FirstCSOop/`
 
-'dotnet run'
+`dotnet run`
