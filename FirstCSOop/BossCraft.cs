@@ -9,11 +9,6 @@ namespace FirstCSOop
     // class implements interface IUFO
     internal class BossCraft : IUFO
     {
-        public BossCraft(string name)
-        {
-            this.name = name;
-            Console.WriteLine("Hi, I am a boss craft and my name is " + name);
-        }
         public void fly()
         {
             Console.WriteLine("Boss craft can fly around the world.");

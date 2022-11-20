@@ -9,11 +9,6 @@ namespace FirstCSOop
     // implements interface IUFO
     internal class LargeCraft : IUFO
     {
-        public LargeCraft(string name)
-        {
-            this.name = name;
-            Console.WriteLine("Hi, I am a large craft and my name is " + name);
-        }
         public void fly()
         {
             Console.WriteLine("Large craft can fly around the world.");
