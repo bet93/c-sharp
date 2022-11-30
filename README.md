@@ -1,8 +1,13 @@
 # c-sharp
-To run program make sure to download .Net Core. <br>
 
-Then type the following commands at the Command Line:
+Download .Net Core first. <br>
 
-`cd FirstCSOop/`
+To create program: <br> `mkdir <folder>`
+
+`cd <folder>`
+
+`donet new console` <br>
+
+To run program: <br>
 
 `dotnet run`
