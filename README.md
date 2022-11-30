@@ -2,7 +2,9 @@
 
 Download .Net Core first. <br> <br>
 
-To create program: <br> `mkdir <folder>`
+To create program: <br>
+
+`mkdir <folder>`
 
 `cd <folder>`
 
