@@ -2,10 +2,15 @@
 {
   class Problem2
   {
+    // takes a sequence of integers and returns a sequence of integers
+    // first removes all multiples of 6 less than 42
+    // then squares each number
+    // finally, removes any resulting integer that is odd
     public static IEnumerable<int> myFilter(IEnumerable<int> input)
     {
       IEnumerable<int> result;
-      result = input.Where(x => x % 6 == 0).Where(x => x > 42).Select(x => x * x).Where(x => x % 2 == 0);
+      
+      result = input.Where(x => x % 6 != 0 || x >= 42).Select(x => x * x).Where(x => x % 2 == 0);
 
       return result;
     }
