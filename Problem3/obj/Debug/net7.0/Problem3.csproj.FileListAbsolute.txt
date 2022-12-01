@@ -1,0 +1,15 @@
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/Problem3.csproj.AssemblyReference.cache
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/Problem3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/Problem3.AssemblyInfoInputs.cache
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/Problem3.AssemblyInfo.cs
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/Problem3.csproj.CoreCompileInputs.cache
+/Users/sarabetancourth/Repos/c-sharp/Problem3/bin/Debug/net7.0/Problem3
+/Users/sarabetancourth/Repos/c-sharp/Problem3/bin/Debug/net7.0/Problem3.deps.json
+/Users/sarabetancourth/Repos/c-sharp/Problem3/bin/Debug/net7.0/Problem3.runtimeconfig.json
+/Users/sarabetancourth/Repos/c-sharp/Problem3/bin/Debug/net7.0/Problem3.dll
+/Users/sarabetancourth/Repos/c-sharp/Problem3/bin/Debug/net7.0/Problem3.pdb
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/Problem3.dll
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/refint/Problem3.dll
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/Problem3.pdb
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/Problem3.genruntimeconfig.cache
+/Users/sarabetancourth/Repos/c-sharp/Problem3/obj/Debug/net7.0/ref/Problem3.dll
