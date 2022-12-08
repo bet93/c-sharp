@@ -20,8 +20,6 @@ namespace Problem2
 
         public void readdata()
         {
-            // string temp;
-
             Console.WriteLine("Enter batsman code: ");
             this.bcode = Convert.ToInt32(Console.ReadLine());
 
