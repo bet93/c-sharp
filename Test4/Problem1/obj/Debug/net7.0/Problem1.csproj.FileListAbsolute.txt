@@ -1,0 +1,15 @@
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/Problem1.csproj.AssemblyReference.cache
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/Problem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/Problem1.AssemblyInfoInputs.cache
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/Problem1.AssemblyInfo.cs
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/Problem1.csproj.CoreCompileInputs.cache
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/bin/Debug/net7.0/Problem1
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/bin/Debug/net7.0/Problem1.deps.json
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/bin/Debug/net7.0/Problem1.runtimeconfig.json
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/bin/Debug/net7.0/Problem1.dll
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/bin/Debug/net7.0/Problem1.pdb
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/Problem1.dll
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/refint/Problem1.dll
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/Problem1.pdb
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/Problem1.genruntimeconfig.cache
+/Users/sarabetancourth/Repos/c-sharp/Test4/Problem1/obj/Debug/net7.0/ref/Problem1.dll
