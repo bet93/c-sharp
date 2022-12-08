@@ -25,9 +25,9 @@ namespace Problem6
         {
             int[] numbers3 = { -5, -6, -7, -8, 47, 50, 60, 1000, 2000, 3000 };
 
-            List<int> list = numbers3.OfType<int>().ToList();
+            List<int> list3 = numbers3.OfType<int>().ToList();
 
-            var answer = Problem6.findOdds(list);
+            var answer = Problem6.findOdds(list3);
 
             foreach (int i in answer)
             {
