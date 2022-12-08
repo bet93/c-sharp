@@ -4,18 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem1
+namespace Problem2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // instantiate a new Student object
-            Student student = new Student();
-            student.Takedata();
-            student.Showdata();
-
-    
+            // instantiate a new Batsman object
+            Batsman batsman = new Batsman();
+            batsman.readdata();
+            batsman.displaydata();
         }
     }
 }
+

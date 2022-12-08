@@ -9,7 +9,7 @@ namespace Problem1
     class Student
     {
         private int admno;
-        private char[] sname = new char[20];
+        private string? sname;
         private float eng, math, science, total;
 
         // a function that calculates eng + math + science and returns a float value
@@ -20,13 +20,22 @@ namespace Problem1
 
         // a function that accepts values for admno, sname, eng, science and invokes
         // ctotal() to calculate total.
-        public void Takedata(int admno, string sname, float eng, float math, float science)
+        public void Takedata()
         {
-            this.admno = admno;
-            this.sname = sname.ToCharArray();
-            this.eng = eng;
-            this.math = math;
-            this.science = science;
+            Console.WriteLine("Enter admission number: ");
+            this.admno = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter student name: ");
+            this.sname = Console.ReadLine();
+
+            Console.WriteLine("Enter english grade: ");
+            this.eng = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter math grade: ");
+            this.math = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter science grade: ");
+            this.science = Convert.ToInt32(Console.ReadLine());
 
             this.total = ctotal();
         }
@@ -35,7 +44,7 @@ namespace Problem1
         public void Showdata()
         {
             Console.WriteLine("Student admno:   " + this.admno);
-            Console.WriteLine("Student name:    " + new string(this.sname));
+            Console.WriteLine("Student name:    " + this.sname);
             Console.WriteLine("Student eng:     " + this.eng);
             Console.WriteLine("Student math:    " + this.math);
             Console.WriteLine("Student science: " + this.science);
